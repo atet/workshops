@@ -1,4 +1,4 @@
-﻿# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_workshops_**](https://github.com/atet/learn/workshops)
+﻿# [atet](https://github.com/atet) / [**_workshops_**](https://github.com/atet/workshops?tab=readme-ov-file#atet--workshops)
 
 --------------------------------------------------------------------------------------------------
 
